@@ -32,13 +32,13 @@ Requirement Analysis is the process of defining user expectations for a software
 
    - **Document Analysis**: Review existing documentation and systems to understand current functionalities and requirements.
 
-2 **Requirement Elicitation**:
+2. **Requirement Elicitation**:
 
-    - **Brainstorming**: Conducting brainstorming sessions to generate ideas and gather requirements.
+   - **Brainstorming**: Conducting brainstorming sessions to generate ideas and gather requirements.
 
-    - **Focus Groups**: Holding focus group discussions with selected stakeholders to gather detailed requirements.
+   - **Focus Groups**: Holding focus group discussions with selected stakeholders to gather detailed requirements.
 
-    - **Prototyping**: Creating prototypes to help stakeholders visualize the system and refine their requirements.
+   - **Prototyping**: Creating prototypes to help stakeholders visualize the system and refine their requirements.
 
 3. **Requirement Documentation**:
 
